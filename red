@@ -1,4 +1,5 @@
 red 
 blue
-green
-yellow
+violet
+black
+white
